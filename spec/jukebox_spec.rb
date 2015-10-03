@@ -38,7 +38,7 @@ describe Jukebox do
 
   it 'can play' do
     jukebox.play(songs[4])
-    expect(jukebox.command("play")).to eq("now playing \'(Far From)\' Home - Tiga")
+    expect(jukebox.command("play #{songs[4]}")).to eq("now playing (Far From) Home - Tiga")
   end
 
   it "can handle invalid command" do
