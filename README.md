@@ -34,3 +34,5 @@ Coverage report generated for RSpec to /Users/scottreynolds/code/ta/labs/simplec
 * [Christoph Olszowka](https://github.com/colszowka/) - [SimpleCov](https://github.com/colszowka/simplecov)
 * [RailsCasts](http://railscasts.com/) - [Metrics Metrics Metrics](http://railscasts.com/episodes/252-metrics-metrics-metrics)
 * [About.com](http://ruby.about.com/) - [Simple Code Metrics in Ruby with SimpleCov](http://ruby.about.com/od/simplecov/ss/Simple-Code-Metrics-In-Ruby-With-Simplecov.htm)
+
+<a href='https://learn.co/lessons/code-coverage' data-visibility='hidden'>View this lesson on Learn.co</a>
